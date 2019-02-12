@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Opdracht Androi_Input</string>
+    <string name="text_rb_normaal">Normaal</string>
+    <string name="text_rb_hoog">Hoog</string>
+    <string name="text_rb_laag">Laag</string>
+    <string name="text_tv_omschrijving">Omschrijving</string>
+    <string name="text_lbl_datum">Datum</string>
+    <string name="text_btn_datum">TOON  KALENDER</string>
+    <string name="text_btn_save">SAVE</string>
+    <string name="txt_lbl_titel">Titel</string>
+    <string name="text_lbl_omschrijving">Omschrijving</string>
+</resources>
